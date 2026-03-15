@@ -1,4 +1,4 @@
-# Anki MCQ Template (Multiple Correct Answers + Shuffle)
+# Anki Shuffle MCQ
 
 A custom **MCQ note template for Anki** that allows you to create flashcards with **shuffled answers**, **multiple correct answers**, and **customizable answer counts**.  
 
