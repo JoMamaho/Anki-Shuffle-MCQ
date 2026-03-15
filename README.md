@@ -18,7 +18,7 @@ Suitable for **exams, quizzes, and concept testing**.
 **Download** the `.apkg` file and import it into Anki.  
 
   
-[Download Anki MCQ Template (Multiple Correct Answers + Shuffle)](link)
+[Download Template](https://github.com/JoMamaho/Anki-Shuffle-MCQ/blob/main/Anki%20Shuffle%20MCQ%20Template.apkg)
 
 <br>
 
@@ -27,7 +27,7 @@ Suitable for **exams, quizzes, and concept testing**.
 
 Write your question in the **Question** field.
 
-![Question Field](image-path)
+![Preview](preview/preview1.png)
 
 ---
 
