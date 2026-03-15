@@ -27,7 +27,7 @@ Suitable for **exams, quizzes, and concept testing**.
 
 Write your question in the **Question** field.
 
-![Preview](preview/preview1.png)
+![Preview](preview/Preview1.png)
 
 ---
 
