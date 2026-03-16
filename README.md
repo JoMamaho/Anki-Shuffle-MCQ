@@ -2,6 +2,10 @@
 
 A custom **MCQ note template for Anki** that allows you to create flashcards with **shuffled answers**, **multiple correct answers**, and **customizable answer counts**.  
 
+<p align="center">
+<img src="preview/Preview1.png" width="300">
+</p>
+
 Suitable for **exams, quizzes, and concept testing**.
 
 ## Features
@@ -17,7 +21,7 @@ Suitable for **exams, quizzes, and concept testing**.
 
 **Download** the `.apkg` file and import it into Anki.  
 
-  
+
 [Download Template](https://github.com/JoMamaho/Anki-Shuffle-MCQ/blob/main/Anki%20Shuffle%20MCQ%20Template.apkg)
 
 <br>
@@ -26,8 +30,6 @@ Suitable for **exams, quizzes, and concept testing**.
 #### 1. Enter the Question
 
 Write your question in the **Question** field.
-
-![Preview](preview/Preview1.png)
 
 ---
 
@@ -68,11 +70,11 @@ You can mark **multiple answers as correct**.
 
 ## Preview
 
-Front side:
+<p align="center">
+<img src="preview/Preview2.png" width="300">
+</p>
 
 
-
-Back side:
 
 <br>
 
