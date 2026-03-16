@@ -19,10 +19,10 @@ Suitable for **exams, quizzes, and concept testing**.
 
 ## Download
 
-**Download** the `.apkg` file and import it into Anki.  
+⬇️ **Download** the `.apkg` file and import it into Anki.  
 
 
-[Download Template](https://github.com/JoMamaho/Anki-Shuffle-MCQ/blob/main/Anki%20Shuffle%20MCQ%20Template.apkg)
+[Download Template]([https://github.com/JoMamaho/Anki-Shuffle-MCQ/blob/main/Anki%20Shuffle%20MCQ%20Template.apkg](https://github.com/JoMamaho/Anki-Shuffle-MCQ/tree/main/Releases/Latest))
 
 <br>
 
