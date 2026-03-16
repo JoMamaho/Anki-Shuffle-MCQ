@@ -79,5 +79,9 @@ You can mark **multiple answers as correct**.
 <br>
 
 ## License
-This project is licensed under the MIT License.
-MIT License © 2026 bluh bluh
+Copyright 2026 JoMamaho
+
+This project is licensed under the Apache License 2.0.
+See [LICENSE](https://github.com/JoMamaho/Anki-Shuffle-MCQ/blob/main/LICENSE) for details.
+
+Apache License 2.0 © 2026 JoMamaHo
